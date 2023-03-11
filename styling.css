@@ -1,0 +1,47 @@
+p{
+	font-family: 'Merriweather', serif;
+	padding: 10px;
+	margin: 10px;
+}
+img{
+	height: 200px;
+}
+nav {
+  margin: 20px;
+}
+nav dd {
+  padding: 10px;
+}
+h1{
+	margin: 20px;
+}
+h3{
+	padding: 10px;
+}
+.indexclass{
+	background-color: #FAC78E;
+}
+.realmadridclass{
+	background-color: #9EFF7A;
+}
+.manunitedclass{
+	background-color: #9EFF7A;
+}
+.legendsclass{
+	background-color: #7DE1E3;
+}
+.favplayerclass{
+	background-color: #A796FA;
+}
+.favteamsclass{
+	background-color: #E67099;
+}
+.favManagerClass{
+	font-family: 'Golos Text', sans-serif;
+	color: navy;
+}
+.favManagerClass img{
+	align-self: right;
+	height: 400px;
+	flex-wrap: wrap;
+}
